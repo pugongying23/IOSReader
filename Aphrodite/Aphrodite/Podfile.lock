@@ -1,0 +1,42 @@
+PODS:
+  - AVOSCloud (4.0.1)
+  - AVOSCloudCrashReporting (4.0.1):
+    - AVOSCloud (= 4.0.1)
+    - AVOSCloudCrashReporting/_ARC (= 4.0.1)
+    - AVOSCloudCrashReporting/_NOARC (= 4.0.1)
+  - AVOSCloudCrashReporting/_ARC (4.0.1):
+    - AVOSCloud (= 4.0.1)
+    - AVOSCloudCrashReporting/_NOARC (= 4.0.1)
+  - AVOSCloudCrashReporting/_NOARC (4.0.1):
+    - AVOSCloud (= 4.0.1)
+  - AVOSCloudIM (4.0.1):
+    - AVOSCloud (= 4.0.1)
+    - AVOSCloudIM/_ARC (= 4.0.1)
+    - AVOSCloudIM/_NOARC (= 4.0.1)
+  - AVOSCloudIM/_ARC (4.0.1):
+    - AVOSCloud (= 4.0.1)
+    - AVOSCloudIM/_NOARC (= 4.0.1)
+  - AVOSCloudIM/_NOARC (4.0.1):
+    - AVOSCloud (= 4.0.1)
+  - MJRefresh (3.1.12)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - AVOSCloud
+  - AVOSCloudCrashReporting
+  - AVOSCloudIM
+  - MJRefresh
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  AVOSCloud: 521d3639c2619126ec073f617bb5992472b5b2d3
+  AVOSCloudCrashReporting: f828e57e6900bc7d08bee74e85455b1080b61ea0
+  AVOSCloudIM: 46daef41d5258297cffcca23cfde6a9453a538fa
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: ad5b0448679b874731d16e929aefffae79eb81de
+
+COCOAPODS: 1.1.1
